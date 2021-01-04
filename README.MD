@@ -15,6 +15,6 @@ Tencent QQ: 3279826484
 
 --------
 
-![Karlatemp's github stats](https://github-readme-stats.vercel.app/api?username=Karlatemp&show_icons=true)
+![Karlatemp's github stats](https://github-readme-stats.vercel.app/api?username=Karlatemp&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karlatemp&layout=compact)](https://github.com/Karlatemp)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karlatemp&layout=compact&theme=tokyonight)](https://github.com/Karlatemp)
